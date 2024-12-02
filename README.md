@@ -35,11 +35,6 @@ Hi there, I am Lesia! 👋
     </tr>
   </table>
 </div>
-<style>
-  img[alt="Bem"] {
-    filter: invert(1);
-  }
-</style>
 <h2 style="font-family: 'Roboto', sans-serif;">💻 Technologies I Have Learned</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
