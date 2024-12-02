@@ -77,9 +77,7 @@ Hi there, I am Lesia! 👋
       <br>Sass
     </td>
     <td align="center" width="88"> 
-       <div style="display: inline-flex; justify-content: center; align-items: center; width: 45px; height: 45px; border-radius: 50%; background-color: white;">
   <img src="./icons/11-bem.svg" alt="Bem" width="32" height="32" style="filter: none;">
-</div>
       <br>BEM
     </td>
     <td align="center" width="88">
