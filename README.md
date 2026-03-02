@@ -8,16 +8,6 @@ Hi there, I am Lesia! 👋
 
 ###
 
-<div>
-  <h2>💾 About Me</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>💻 I like studying something new and Computer Science is the perfect place for that</li>
-    <li>🎓 Pursuing my Master’s degree in Computer Science to deepen my understanding of advanced topics</li>
-    <li>🌱 Currently diving deeper into Python and its frameworks</li>
-    <li>🔭 I’m improving my skills in JavaScript and React to build modern, responsive web applications</li>
-  </ul>
-</div>
-
 <h2 style="font-family: 'Roboto', sans-serif;">📈 My Stats</h2>
 <div style="background: linear-gradient(to right, #1e3c72, #2a5298); padding: 20px; border-radius: 10px;">
   <table align="center">
